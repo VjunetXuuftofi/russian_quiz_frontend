@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/russian_quiz_frontend/static/css/main.d2534a35.chunk.css",
-    "main.js": "/russian_quiz_frontend/static/js/main.c569d999.chunk.js",
-    "main.js.map": "/russian_quiz_frontend/static/js/main.c569d999.chunk.js.map",
+    "main.js": "/russian_quiz_frontend/static/js/main.ce9e9306.chunk.js",
+    "main.js.map": "/russian_quiz_frontend/static/js/main.ce9e9306.chunk.js.map",
     "runtime-main.js": "/russian_quiz_frontend/static/js/runtime-main.d5124331.js",
     "runtime-main.js.map": "/russian_quiz_frontend/static/js/runtime-main.d5124331.js.map",
-    "static/js/2.379a8a9d.chunk.js": "/russian_quiz_frontend/static/js/2.379a8a9d.chunk.js",
-    "static/js/2.379a8a9d.chunk.js.map": "/russian_quiz_frontend/static/js/2.379a8a9d.chunk.js.map",
+    "static/js/2.78c81560.chunk.js": "/russian_quiz_frontend/static/js/2.78c81560.chunk.js",
+    "static/js/2.78c81560.chunk.js.map": "/russian_quiz_frontend/static/js/2.78c81560.chunk.js.map",
     "index.html": "/russian_quiz_frontend/index.html",
     "static/css/main.d2534a35.chunk.css.map": "/russian_quiz_frontend/static/css/main.d2534a35.chunk.css.map",
-    "static/js/2.379a8a9d.chunk.js.LICENSE.txt": "/russian_quiz_frontend/static/js/2.379a8a9d.chunk.js.LICENSE.txt",
+    "static/js/2.78c81560.chunk.js.LICENSE.txt": "/russian_quiz_frontend/static/js/2.78c81560.chunk.js.LICENSE.txt",
     "static/media/logo.103b5fa1.svg": "/russian_quiz_frontend/static/media/logo.103b5fa1.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.d5124331.js",
-    "static/js/2.379a8a9d.chunk.js",
+    "static/js/2.78c81560.chunk.js",
     "static/css/main.d2534a35.chunk.css",
-    "static/js/main.c569d999.chunk.js"
+    "static/js/main.ce9e9306.chunk.js"
   ]
 }
